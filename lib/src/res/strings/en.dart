@@ -66,6 +66,7 @@ Map<String, String> en = {
   "TL": "East Timor",
   "EC": "Ecuador",
   "EG": "Egypt",
+  "EU": "European Union",
   "SV": "El Salvador",
   "GQ": "Equatorial Guinea",
   "ER": "Eritrea",

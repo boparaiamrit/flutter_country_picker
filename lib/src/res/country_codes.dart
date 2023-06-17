@@ -1,5 +1,18 @@
 final List<Map<String, dynamic>> countryCodes = [
   {
+    "e164_cc": "46",
+    "iso2_cc": "EU",
+    "e164_sc": 0,
+    "geographic": true,
+    "level": 1,
+    "name": "European Union",
+    "example": "471234567",
+    "display_name": "European Union (EU) [+46]",
+    "full_example_with_plus_sign": "+32471234567",
+    "display_name_no_e164_cc": "European Union (EU)",
+    "e164_key": "46-EU-0"
+  },
+  {
     "e164_cc": "93",
     "iso2_cc": "AF",
     "e164_sc": 0,
@@ -2674,8 +2687,7 @@ final List<Map<String, dynamic>> countryCodes = [
     "example": "",
     "display_name": "South Georgia and the South Sandwich Islands (GS) [+500]",
     "full_example_with_plus_sign": null,
-    "display_name_no_e164_cc":
-        "South Georgia and the South Sandwich Islands (GS)",
+    "display_name_no_e164_cc": "South Georgia and the South Sandwich Islands (GS)",
     "e164_key": "500-GS-0"
   },
   {
